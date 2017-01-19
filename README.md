@@ -15,11 +15,13 @@ Below is a [quick start guide](https://github.com/modernistik/parse-stack#overvi
 **If you are looking for a tool to migrate your hosted Parse Files to an Amazon S3 bucket, see our [Parse File Migration tool here](https://github.com/modernistik/parse-file-migration). This should be done before January 28th, 2017**
 
 ### Code Status
-[![Gitter](https://badges.gitter.im/modernistik/parse-stack.svg)](https://gitter.im/modernistik/parse-stack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Gem Version](https://img.shields.io/gem/v/parse-stack.svg)](https://github.com/modernistik/parse-stack)
 [![Downloads](https://img.shields.io/gem/dt/parse-stack.svg)](https://rubygems.org/gems/parse-stack)
 [![Build Status](https://travis-ci.org/modernistik/parse-stack.svg?branch=master)](https://travis-ci.org/modernistik/parse-stack)
 [![API Reference](http://img.shields.io/badge/api-docs-blue.svg)](http://www.rubydoc.info/github/modernistik/parse-stack)
+
+### Questions?
+[![Gitter](https://badges.gitter.im/modernistik/parse-stack.svg)](https://gitter.im/modernistik/parse-stack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Installation
 
